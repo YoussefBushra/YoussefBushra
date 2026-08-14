@@ -32,8 +32,6 @@ I'm particularly interested in **backend architecture, distributed systems, syst
 - ⚙️ **Focus:** Backend architecture, distributed systems, system design & performance
 - 🌐 **Full-stack:** Comfortable working across backend services and modern web applications
 - 💬 **Interested in:** Scalable systems, SaaS architecture, integrations & production engineering
-- 📫 **Email:** Youssefbushra16.4@gmail.com
-
 ---
 
 ## 🧠 Engineering Focus
