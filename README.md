@@ -4,14 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=8B7CFF&center=true&vCenter=true&width=750&lines=Youssef+Bushra+Fouad;Backend-Focused+Full-Stack+Engineer;Node.js+%7C+NestJS+%7C+TypeScript;Microservices+%26+Distributed+Systems" alt="Youssef Bushra Fouad" />
 </a>
 
-<p>
-  <a href="https://linkedin.com/in/youssefbushra">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:Youssefbushra16.4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<p> <a href="https://youssefbushra.com"> <img src="https://img.shields.io/badge/Website-youssefbushra.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /> </a> <a href="https://linkedin.com/in/youssefbushra"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:Youssefbushra16.4@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
 
 </div>
 
